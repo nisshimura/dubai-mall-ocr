@@ -1,1 +1,1 @@
-ster,BEZA,40,NAT
+F,つまようじ,400-,つまようじ,400,50V.o.,MILL,MILL

@@ -1,1 +1,1 @@
-ID",ニンニク,D,ニンニク,D'
+D,5,STAND,STAND,STAND,STAND
