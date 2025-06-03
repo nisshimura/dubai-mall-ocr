@@ -1,1 +1,1 @@
-HALLOWEENS,Boo
+クサイズ,カット,29,4,29,トング,HCUT,PE,NOT
