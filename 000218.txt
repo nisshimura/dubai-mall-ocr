@@ -1,1 +1,1 @@
-EYELASH,CURLER,EYELASH,CURLER,50,(A,Eyelash Curl,120,夏家法,RAZO
+PETS,PETS,できる,ベット食器台,できる,ベット食器台,M,D,角できる,ベット食器台,(,DOGS

@@ -1,1 +1,1 @@
-CLIPBOARD,BLACK,CHECKS,クリップボード用,24260 200
+99,開き戸安全ロック,聞き戸安全ロック,Sumy Gacs,開き戸安全ロック,Safety Cack,44

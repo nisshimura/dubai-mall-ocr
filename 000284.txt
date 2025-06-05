@@ -1,1 +1,1 @@
-D,5,STAND,STAND,STAND,STAND
+オープナー,E,MagTanis,マグネット,ビンオープナー

@@ -1,1 +1,1 @@
-E,ようじ,つまようじ,つまようじ,F2A,つまようじ,400,400,400,0,SECAU,6622,7.50-V.o,MILL
+Dog,pooh,bogs,DOGS,DOGS,S,DOGS,DOGS,DOGS,Collection,3,安全ピン,SAFETY PIN,28,DOOS,397,L,DOGS,DOGS,L,Collection,DOGS,Collection

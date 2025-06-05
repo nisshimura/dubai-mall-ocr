@@ -1,1 +1,1 @@
-FOAM, BLASTER, NICHED, BATTLE, 100, WATER, GAME
+3壹,アルミメッシュスポンジ,アルミメッシュ,e,SPONG
